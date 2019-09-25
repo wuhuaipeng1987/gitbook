@@ -1,0 +1,125 @@
+{
+
+     "title": "CTSI Cloud Manage Platform",
+
+     "description": "CTSI CMP",
+
+     "language": "zh-hans",
+
+     "author": "CTSI Engineer",
+
+     "plugins": [
+
+                 "-lunr",
+
+                 "-search",
+
+                 "search-plus",
+
+                 "-highlight",
+
+                 "prism",
+
+                 "prism-themes",
+
+                 "-sharing",
+
+                 "splitter",
+
+                 "simple-page-toc",
+
+                 "anchors",
+
+                 "anchor-navigation-ex",
+
+                 "copy-code-button",
+
+                 "multipart",
+
+                 "alerts",
+
+                 "tbfed-pagefooter",
+
+                 "emphasize",
+
+                 "favicon"
+
+                 ],
+
+             "pluginsConfig": {
+
+                 "search-plus": {
+
+                                 "language": "zh-hans"
+
+                                 },
+
+                     "sitemap": {
+
+                                 "hostname": "http://192.168.7.5:4000/"
+
+                                 },
+
+                     "simple-page-toc": {
+
+                                         "maxDepth": 3,
+
+                                         "skipFirstH1": true
+
+                                         },
+
+                     "anchor-navigation-ex": {
+
+                                                 "isShowTocTitleIcon": true,
+
+                                                 "tocLevel1Icon": "fa fa-hand-o-right",
+
+                                                 "tocLevel2Icon": "fa fa-hand-o-right",
+
+                                                 "tocLevel3Icon": "fa fa-hand-o-right"
+
+                                             },
+
+                         "tbfed-pagefooter": {
+
+                                                 "copyright": "Copyright © CTSI Cloud Center",
+
+                                                 "modify_label": "Modify:",
+
+                                                 "modify_format": "YYYY-MM-DD HH:mm:ss"
+
+                                             },
+
+                                     "prism": {
+
+                                         "css": [
+
+                                                 "prismjs/themes/prism-tomorrow.css"
+
+                                                 ]
+
+                                             },
+
+                                     "favicon": {
+
+                                                 "shortcut": "assets/images/favicon.ico",
+
+                                                 "bookmark": "assets/images/favicon.ico",
+
+                                                 "appleTouch": "assets/images/favicon.ico",
+
+                                                 "appleTouchMore": {
+
+                                                             "120x120": "assets/images/apple-touch-icon-120x120.png",
+
+                                                              "180x180": "assets/images/apple-touch-icon-180x180.png"
+
+                                                                     }
+
+                                                 }
+
+                             }
+
+}
+
+
