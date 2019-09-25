@@ -10,39 +10,20 @@
 
      "plugins": [
 
-                 "-lunr",
-
-                 "-search",
-
                  "search-plus",
 
-                 "-highlight",
 
-                 "prism",
+                  "prism",
 
-                 "prism-themes",
+                  "simple-page-toc",
 
-                 "-sharing",
 
-                 "splitter",
+                  "anchor-navigation-ex",
 
-                 "simple-page-toc",
 
-                 "anchors",
+                  "tbfed-pagefooter",
 
-                 "anchor-navigation-ex",
-
-                 "copy-code-button",
-
-                 "multipart",
-
-                 "alerts",
-
-                 "tbfed-pagefooter",
-
-                 "emphasize",
-
-                 "favicon"
+                  "favicon"
 
                  ],
 
