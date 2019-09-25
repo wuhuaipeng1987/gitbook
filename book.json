@@ -17,10 +17,6 @@
 
                   "simple-page-toc",
 
-
-                  "anchor-navigation-ex",
-
-
                   "tbfed-pagefooter",
 
                   "favicon"
@@ -48,18 +44,6 @@
                                          "skipFirstH1": true
 
                                          },
-
-                     "anchor-navigation-ex": {
-
-                                                 "isShowTocTitleIcon": true,
-
-                                                 "tocLevel1Icon": "fa fa-hand-o-right",
-
-                                                 "tocLevel2Icon": "fa fa-hand-o-right",
-
-                                                 "tocLevel3Icon": "fa fa-hand-o-right"
-
-                                             },
 
                          "tbfed-pagefooter": {
 
